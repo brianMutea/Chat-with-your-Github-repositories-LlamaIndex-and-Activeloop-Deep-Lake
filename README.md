@@ -2,7 +2,8 @@
 
 [See Notebook](https://github.com/brianMutea/Chat-with-your-Github-repositories-LlamaIndex-and-Activeloop-Deep-Lake.ipynb/blob/main/Chat_with_your_Github_repositories_LlamaIndex_and_Activeloop_Deep_Lake.ipynb)
 
-[The repo used as data for chat](https://github.com/brianMutea/LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval)
+Chatting with this repo:
+[LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval](https://github.com/brianMutea/LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval)
 
 ```Python
 def parse_github_url(url):
@@ -113,4 +114,6 @@ if __name__ == "__main__":
 
 [See Notebook](https://github.com/brianMutea/Chat-with-your-Github-repositories-LlamaIndex-and-Activeloop-Deep-Lake.ipynb/blob/main/Chat_with_your_Github_repositories_LlamaIndex_and_Activeloop_Deep_Lake.ipynb)
 
-[The repo used as data for chat](https://github.com/brianMutea/LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval)
+Chatting with this repo:
+[LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval](https://github.com/brianMutea/LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval)
+
