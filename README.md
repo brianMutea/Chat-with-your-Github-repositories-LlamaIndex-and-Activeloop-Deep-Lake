@@ -100,6 +100,9 @@ def main():
 
       answer = query_engine.query(user_question)
       print(f"Answer: {textwrap.fill(str(answer), 100)} \n")
+
+if __name__ == "__main__":
+  main()
 ```
 
 ### Results
