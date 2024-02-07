@@ -1,4 +1,4 @@
-# Chat with your Github repositories -> LlamaIndexv and Activeloop DeepLake
+# Chat with your Github repositories -> LlamaIndex and Activeloop DeepLake
 
 [See Notebook](https://github.com/brianMutea/Chat-with-your-Github-repositories-LlamaIndex-and-Activeloop-Deep-Lake.ipynb/blob/main/Chat_with_your_Github_repositories_LlamaIndex_and_Activeloop_Deep_Lake.ipynb)
 
