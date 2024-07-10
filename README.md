@@ -134,7 +134,7 @@ Chatting with this repo:
 
 
 
-Conversion time: 0.391 seconds.
+Conversion time: 0.344 seconds.
 
 
 Using this Markdown file:
@@ -147,7 +147,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β36
-* Tue Jul 09 2024 22:41:27 GMT-0700 (PDT)
+* Tue Jul 09 2024 22:44:14 GMT-0700 (PDT)
 * Source doc: Tell me about yourself:
 ----->
 
@@ -181,6 +181,35 @@ Depends on the complexity but on average a 1500+ words article could take 2 days
 * Revise, edit for clarity, accuracy and consistency.
 
 
+```
+from indexify import IndexifyClient, ExtractionGraph
+
+#initialize the Indexify client
+client = IndexifyClient()
+
+# Define the data pipeline
+extraction_graph_spec = """
+name: 'podcast2knowledgebase'
+extraction_policies:
+   - extractor: 'tensorlake/whisper-asr'
+   name: 'whisperaudioextractor'
+   - extractor: 'tensorlake/chunk-extractor'
+   name: 'chunker'
+   content_source: 'whisperaudioextractor'
+   input_params:
+       chunk_size: 512
+       overlap: 150
+   - extractor: 'tensorlake/minilm-l6'
+   name: 'minilmembedding'
+   content_source: 'chunker'
+"""
+# Create the extraction graph
+extraction_graph = ExtractionGraph.from_yaml(extraction_graph_spec)
+client.create_extraction_graph(extraction_graph)
+
+# upload the file to Indexify
+content_id = client.upload_file("podcast2knowledgebase",             path="Dr_Cal_Newport_How_to_Enhance_Focus_and_Improve_Productivity.mp3")
+print(content_id)
 
 
 
