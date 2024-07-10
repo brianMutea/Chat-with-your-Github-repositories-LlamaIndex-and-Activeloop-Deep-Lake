@@ -117,3 +117,78 @@ if __name__ == "__main__":
 Chatting with this repo:
 [LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval](https://github.com/brianMutea/LlamaIndex-Precision-and-Simplicity-in-Information-Retrieval)
 
+
+
+
+
+
+
+
+
+
+
+============================================================
+
+
+<!-----
+
+
+
+Conversion time: 0.391 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β36
+* Tue Jul 09 2024 22:41:27 GMT-0700 (PDT)
+* Source doc: Tell me about yourself:
+----->
+
+
+**Tell me about yourself: \
+** \
+I began my career as a Web developer where I developed scalable websites for clients with technologies like HTML, CSS, JavaScript(ReactJS), and PHP. During this time I realized that there were not many articles or tutorials that addressed some complex concepts precisely without much complexity left and in an easier to understand manner. So I set to write my first article which surprisingly got thousands of reads and views within a few months. This set the motivation for me to venture into technical writing. I loved that I can explain complex concepts in and easier to understand manner.
+
+Later in 2022 my professional interest shifted to Data Science and ML which was fueled by writing content which also made made my learning curve faster. Since then I have been able to write engaging content for various companies for their new products  for instance Kangas which is an alternative to Pandas or CometML for model  experiment tracking or release of new LLMs which I have worked on. Those articles have greatly amplified their brands and awareness for those products. 
+
+Technical writing has exposed me to great tech-savvy and subject-matter teams of writers and editors who have helped me master the art of writing engaging, easy to understand, and ranking content. For instance through the use of compelling keywords.
+
+I have been enjoying technical writing and I am especially interested in bringing the experience I have gained to the team at Argon Labs. Since you are focused on helping start-ups, I believe I can venture into any technical content required since what I have learned as a writer is the power of great research and ability to learn fast.
+
+**What are my rates:**
+
+I would normally charge 600 USD for an article This articles tend to be more in-depth and require a lot of research, revision and editing for clarity, accuracy and consistency while maintaining engagement and ranking.
+
+**When can I complete 1 article:**
+
+Depends on the complexity but on average a 1500+ words article could take 2 days. \
+ \
+**My approach:**
+
+
+
+* First I check if the content has been widely covered.
+* If covered, I check what additions I can add to it to improve its visibility.
+* Then I create an outline.
+* Draft the article.
+* Revise, edit for clarity, accuracy and consistency.
+
+
+
+
+
+
+
+
+
+
+
+
+
